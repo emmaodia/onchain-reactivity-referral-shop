@@ -68,9 +68,9 @@ referral-ui/
 
 **Somnia Mainnet:**
 - Network Name: Somnia
-- RPC URL: https://rpc.somnia.network
-- Chain ID: 2332
-- Symbol: SOMI
+- RPC URL: https://dream-rpc.somnia.network
+- Chain ID: 50312
+- Symbol: STT
 - Explorer: https://shannon-explorer.somnia.network
 
 ## License
