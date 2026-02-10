@@ -39,7 +39,7 @@ export function EarningsInner() {
         <p className="text-sm opacity-80 mb-1">Total Earned</p>
         <p className="text-3xl font-bold">
           {earnings !== undefined
-            ? `${parseFloat(formatEther(earnings)).toFixed(4)} SOMI`
+            ? `${parseFloat(formatEther(earnings)).toFixed(4)} STT`
             : "..."}
         </p>
         <p className="text-xs opacity-70 mt-2">

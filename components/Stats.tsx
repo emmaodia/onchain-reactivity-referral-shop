@@ -41,17 +41,17 @@ export function Stats() {
       <div className="grid grid-cols-2 gap-4">
         <div className="p-4 bg-gray-50 rounded-lg">
           <p className="text-sm text-gray-500">Total Revenue</p>
-          <p className="text-xl font-semibold">{formatValue(totalRevenue)} SOMI</p>
+          <p className="text-xl font-semibold">{formatValue(totalRevenue)} STT</p>
         </div>
 
         <div className="p-4 bg-gray-50 rounded-lg">
           <p className="text-sm text-gray-500">Commissions Paid</p>
-          <p className="text-xl font-semibold">{formatValue(totalCommissions)} SOMI</p>
+          <p className="text-xl font-semibold">{formatValue(totalCommissions)} STT</p>
         </div>
 
         <div className="p-4 bg-gray-50 rounded-lg">
           <p className="text-sm text-gray-500">Treasury Balance</p>
-          <p className="text-xl font-semibold">{formatValue(treasury)} SOMI</p>
+          <p className="text-xl font-semibold">{formatValue(treasury)} STT</p>
         </div>
 
         <div className="p-4 bg-gray-50 rounded-lg">

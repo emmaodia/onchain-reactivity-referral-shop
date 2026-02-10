@@ -48,7 +48,7 @@ export function ProductsInner() {
           >
             <div>
               <h3 className="font-medium">{product.name}</h3>
-              <p className="text-sm text-gray-500">{product.price} SOMI</p>
+              <p className="text-sm text-gray-500">{product.price} STT</p>
             </div>
 
             <button

@@ -20,7 +20,7 @@ export function ConnectWalletInner() {
             {address.slice(0, 6)}...{address.slice(-4)}
           </p>
           <p className="text-gray-500">
-            {balance ? `${parseFloat(balance.formatted).toFixed(4)} SOMI` : "..."}
+            {balance ? `${parseFloat(balance.formatted).toFixed(4)} STT` : "..."}
           </p>
         </div>
         <button
